@@ -20,9 +20,10 @@ I am a 7th-semester B.Tech student at Gyanmanjari Innovative University. I focus
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AK-4756&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-4756&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
-</div>
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AK-4756&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-4756&layout=compact&theme=transparent&hide_border=true)
 
 * [LinkedIn](www.linkedin.com/in/anuradh-koli-16a31b31a)

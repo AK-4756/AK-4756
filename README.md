@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Anuradh G. Koli 👋
 
-<!--
-**AK-4756/AK-4756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student | Full-Stack & AI Developer**
 
-Here are some ideas to get you started:
+I am a 7th-semester B.Tech student at Gyanmanjari Innovative University. I focus on building practical developer tools, AI-integrated applications, and scalable backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Languages:** Python, JavaScript, Solidity
+* **Frontend:** React, Tailwind CSS, Bootstrap
+* **Backend:** FastAPI, Node.js, PostgreSQL
+* **Tools & AI:** Cursor, Git, Hardhat, LLM API Integrations (Qwen, OpenAI models), OpenCV
+
+### 🚀 Highlighted Projects
+* **AutoDoc CLI:** A Python-based command-line tool that scans local codebases and automatically generates structured `README.md` and `API.md` files using the BharatCode API.
+* **CertiChain:** A decentralized blockchain platform for academic credential verification built with React, FastAPI, PostgreSQL, and Solidity smart contracts. 
+* **SignCare AI:** A real-time sign language translation research project utilizing Python, OpenCV, MediaPipe, and Random Forest classification.
+* **PULSE:** An AI-powered emergency safety application featuring multi-modal SOS triggers and fall detection.
+
+### 📫 Connect with me
+* [LinkedIn](www.linkedin.com/in/anuradh-koli-16a31b31a)

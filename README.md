@@ -12,7 +12,6 @@ I am a 7th-semester B.Tech student at Gyanmanjari Innovative University. I focus
 
 ### 🚀 Highlighted Projects
 - **AutoDoc CLI:** A Python-based command-line tool that scans local codebases and automatically generates structured `README.md` and `API.md` files using the BharatCode API.
-- **CertiChain:** A decentralized blockchain platform for academic credential verification built with React, FastAPI, PostgreSQL, and Solidity smart contracts. 
 - **SignCare AI:** A real-time sign language translation research project utilizing Python, OpenCV, MediaPipe, and Random Forest classification.
 - **PULSE:** An AI-powered emergency safety application featuring multi-modal SOS triggers and fall detection.
 
